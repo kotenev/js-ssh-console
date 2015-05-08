@@ -7,5 +7,5 @@ The folder "js-ssh-console" in this repository can be used as Eclipse project.
 
 Prerequisites:
 
-- This need Java 8 to work
+- This needs Java 8 to work
 - Libs Apache SSHD and JLine2, provided in folder "js-ssh-console/lib", in classpath
